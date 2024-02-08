@@ -1,3 +1,3 @@
 <h2 align="center">
-  Hello, I'm Samandar. I'm Frontend Developer
+  Samandar - Frontend Developer
 </h2>
