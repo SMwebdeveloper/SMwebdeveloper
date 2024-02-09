@@ -28,6 +28,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
     srcset="https://github-readme-stats.vercel.app/api?SMwebdeveloper=samandar&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-    <img src="https://github-readme-stats.vercel.app/api?SMwebdeveloper=SMwebdeveloper&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?smwebdeveloper=smwebdeveloper&show_icons=true" />
 
 </div>
