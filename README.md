@@ -37,5 +37,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 </picture>
 <br/>
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMwebdeveloper&layout=pie"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMwebdeveloper&layout=donut-vertical"/>
 </picture>
