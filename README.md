@@ -25,9 +25,9 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 </p>
 <div align="left">
 <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SMwebdeveloper&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=smwebdeveloper&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-    <img src="https://github-readme-stats.vercel.app/api?username=SMwebdevloper&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=smwebdevloper&show_icons=true" />
 
 </div>
