@@ -23,3 +23,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,tailwind,js,ts,react,vue,firebase,redux" />
   </a>
 </p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?SMwebdeveloper=anuraghazra&show_icons=true&theme=radical" />
+</div>
