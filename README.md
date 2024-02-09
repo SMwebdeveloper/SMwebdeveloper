@@ -19,15 +19,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=sass&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=js,&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=vue&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html"/><img src="https://skillicons.dev/icons?i=css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,&theme=dark"/><img src="https://skillicons.dev/icons?i=sass&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,&theme=dark"/><img src="https://skillicons.dev/icons?i=js,&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark"/><img src="https://skillicons.dev/icons?i=react&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark"/><img src="https://skillicons.dev/icons?i=firebase&theme=dark"/>
   <img src="https://skillicons.dev/icons?i=redux&theme=dark"/>
 </p>
