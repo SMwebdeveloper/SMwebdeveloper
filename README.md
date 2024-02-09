@@ -18,7 +18,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 - 📫 How to reach me **samandarwebdeveloper@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,tailwind,js,ts,react,vue,firebase,redux" />
   </a>
