@@ -23,4 +23,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,tailwind,js,ts,react,vue,firebase,redux" />
   </a>
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smwebdeveloper&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SMwebdeveloper&show_icons=true&bg_color=00000000)
