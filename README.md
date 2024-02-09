@@ -23,7 +23,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,tailwind,js,ts,react,vue,firebase,redux" />
   </a>
 </p>
-<picture>
+<div style="display:flex;flex-direction:column; align-items:start">
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SMwebdeveloper&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -37,3 +38,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
 <picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMwebdeveloper&layout=pie"/>
 </picture>
+</div>
