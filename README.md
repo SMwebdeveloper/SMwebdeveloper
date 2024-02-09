@@ -23,9 +23,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,bootstrap,tailwind,js,ts,react,vue,firebase,redux" />
   </a>
 </p>
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMwebdeveloper&layout=pie"/>
-</picture>
+
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SMwebdeveloper&show_icons=true&theme=dark"
@@ -36,4 +34,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. L
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=SMwebdeveloper&show_icons=true" />
+</picture>
+<br/>
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMwebdeveloper&layout=pie"/>
 </picture>
